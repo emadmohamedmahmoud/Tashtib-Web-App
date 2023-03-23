@@ -1,0 +1,38 @@
+.reg
+{
+    background-image: url("../assets/f3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:100vh ;
+}
+
+h1{
+    color: white;
+    text-shadow: 5px 5px 10px rgb(41, 36, 53);
+    text-align : center;
+    font-size: large;
+}
+
+label {
+    font-size: 22px;
+    direction: ltr;
+    text-shadow: 2px 2px 6px white;
+}
+
+#btn , #btn1 , #btn2{
+    width: 100px;
+    margin-left: 40%;
+    box-shadow: 5px 5px 10px black;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px white;
+}
+
+.rounded {
+    box-shadow: 10px 10px 15px white;
+} 
+
+.blur {
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}

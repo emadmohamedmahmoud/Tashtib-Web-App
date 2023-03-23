@@ -1,0 +1,12 @@
+.title1{
+    cursor: pointer;
+    font-size: 2.3rem;
+    font-weight: 500;
+    color: rgb(100, 98, 98);
+}
+
+.explore{
+    font-size: 15px;
+    font-weight: 600;
+    color: #24A4A4;
+}

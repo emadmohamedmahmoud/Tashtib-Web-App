@@ -1,0 +1,99 @@
+*
+{
+    font-family: 'Montserrat',sans-serif;
+}
+#profile{
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    background-image: url(../assets/breadcrumb.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 0 110px;
+    padding-left: 0px;
+    width: 100%;
+    position: relative;
+}
+
+.paths{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-self: flex-start;
+}
+
+.dvider::after{
+    content:' / ';
+    margin: 0 6 px;
+    color: black;
+    padding-right: 5px;
+}
+
+.paths li {
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1;
+    margin-top: 10px;
+    color: #151515;
+}
+.linksHeader{
+    color: #151515;
+    text-decoration: none;
+}
+
+.imgprofile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    /* position: absolute;
+    top: 200px; */
+    z-index: 1;
+}
+.user-name {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+    color: sienna;
+    padding: 18px;
+    text-decoration: none;
+  }
+  .user-message {
+    word-break: break-all;
+    padding-top: 10px;
+    padding-left: 18px;
+
+
+  }
+  .chat-bubble_right {
+
+    width: 100%;
+    border-radius: 20px 20px 0 20px;
+    background-color: #fff;
+    box-shadow: -2px 2px 1px 1px grey;
+
+  }
+  .transbox{
+    margin: 30px;
+  background-color: #ffffff86;
+  border: 1px rgb(139, 138, 138);
+  opacity: 0.9;
+  }
+  .transbox p{
+    margin: 5%;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+
+  }
+  .transbox h3{
+    margin: 5%;
+  font-weight: bold;
+  color: #000000;
+  }
+
+

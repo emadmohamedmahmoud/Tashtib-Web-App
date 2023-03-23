@@ -1,0 +1,41 @@
+
+.slide-btn
+{
+    height: fit-content;
+    width: fit-content;
+    position: absolute;
+    top: 50%;
+    margin:0px 5%;
+    padding: 15px;
+    display: none;
+    transition: all 1s ;
+    border: 2px solid black;
+}
+.slide-btn:hover
+{
+    background-color: black;
+    box-shadow: 8px 8px 0px 1px rgba(255, 255, 255,0.8);
+}
+.carousel
+{
+    transition: all 1s ;
+}
+.carousel:hover .slide-btn
+{
+    display: inline;
+}
+.carousel-caption
+{
+    transform: translateY(-50%);
+    overflow: hidden;
+}
+.carousel-caption-visibility
+{
+    position: relative;
+    top: 105%;
+    transition: all 2s;
+}
+.carousel:hover .carousel-caption-visibility
+{
+    top: 0px;
+}

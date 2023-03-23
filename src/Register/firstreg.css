@@ -1,0 +1,27 @@
+.reg {
+    background-image: url("../assets/f3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#reg_1 , #reg_2 {
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 100px;
+    font-size: 25px;
+    direction: ltr;
+}
+
+#log {
+    /* margin-left: 30%; */
+    color: white;
+    text-align: center;
+}
+#log2{
+    color: rgb(20, 20, 66);
+}
+#log2:hover{
+    color: brown;
+    text-shadow: 5px 5px 10px rgb(233, 116, 116);
+}

@@ -1,0 +1,70 @@
+
+.line
+{
+    margin: 4px auto;
+    height: 1px;
+    background-color: black;
+}
+.line1
+{
+    width: 75px;
+}
+.line2
+{
+    width:150px;
+}
+
+.card-Eng-img
+{
+    overflow: hidden;
+}
+.card-Eng-img img
+{
+    transition: all 0.5s;
+}
+.card-Eng:hover img
+{
+    transform: scale(1.1 , 1.1);
+}
+
+.item-vote
+{
+    right: 5% ;
+    top: 2% ;
+}
+
+.Item-Icon
+{
+    top: -50%;
+    left: 5%;
+    transition: all 0.5s;
+}
+.card-Eng
+{
+    overflow: hidden;
+}
+.card-Eng:hover .Item-Icon
+{
+    top: 2% ;
+    left: 5% ;
+}
+.Icon-shape 
+{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s;
+}
+.Item-Icon .Icon-shape:hover
+{
+    /* background-color: black !important; */
+    color: black;
+}
+
+
+.category-Img
+{
+    height: 280px;
+}

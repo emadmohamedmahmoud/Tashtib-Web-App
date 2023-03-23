@@ -1,0 +1,49 @@
+
+.card {
+  width: 100%; 
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  align-items: center;
+  position: relative;
+  text-align: center; 
+  background-color: #ccc;
+}
+.card-img
+{
+  height: 350px;
+}
+.img {
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 5px;
+  transition: all 0.5s;
+  border-radius: 5px;
+}
+
+.btn1 {
+  width: 80%;
+  opacity: 0.7;
+  font-size: 1.2rem;
+  font-weight: 700;
+  top: 255px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  transition: all 0.5s;
+}
+
+.btn1:hover {
+  background-color: black;
+  color: beige;
+}
+
+.img:hover {
+  opacity: 0.8;
+  transform: scale(1.1,1.1);
+}
+
+.name, .price {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: rgb(100, 98, 98);
+}

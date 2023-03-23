@@ -1,0 +1,49 @@
+#ContactHero
+{
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header
+{
+    background-image: url(../assets/breadcrumb.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 100px 0 110px;
+    padding-left: 0px;
+    width: 100%;
+    position: relative;
+}
+
+.paths{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-self: flex-start;
+}
+
+.dvider::after{
+    content:' / ';
+    margin: 0 6 px;
+    color: black;
+    padding-right: 5px;
+}
+
+.paths li {
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1;
+    margin-top: 10px;
+    color: #151515;
+}
+
+
+
+.contact-Message
+{
+    resize: none;
+    height: 130px;
+}

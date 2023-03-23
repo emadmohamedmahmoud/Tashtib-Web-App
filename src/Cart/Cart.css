@@ -1,0 +1,145 @@
+
+
+.header1{
+    background-image: url(../assets/breadcrumb.webp);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 0;
+    padding-left: 0px;
+    position: relative;
+    width: 100%;
+}
+
+.cart-title{
+    font-size: 2.3rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #151515;
+    margin-top: 0;
+    line-height: 1.2;
+    color: rgb(100, 98, 98);
+}
+
+.page-breadcrumb{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.page-breadcrumb li{
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: 0.5px;
+        font-family: "Montserrat", sans-serif;
+        line-height: 1;
+        margin-top: 10px;
+        color: #151515;
+}
+
+.table thead {
+    background-color: #151515;
+    color: white;
+}
+
+.mb-30 {
+    margin-bottom: 30px !important;
+}
+
+.Cart-table-head tr th {
+    text-align: center;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 12px 20px;
+}
+
+.Cart-table-body tr td {
+    height: 25vh;
+    text-align: center;
+    border: none;
+    padding: 25px 20px;
+    vertical-align: middle;
+    border-bottom: 1px solid #dddddd;
+}
+
+.pro-thumbnail {
+    max-width: 120px;
+    min-width: 100px;
+    width: 120px;
+}
+
+.pro-title {
+min-width: 200px;
+}
+
+.pro-thumbnail a {
+display: block;
+border: 1px solid #eeeeee;
+}
+
+.pro-thumbnail img {
+width: 100%;
+background-color: #f6f7f8;
+}
+
+.pro-title a {
+font-size: 16px;
+font-weight: 600;
+color: #151515;
+}
+
+.pro-title a:hover {
+    color: #151515;
+}
+
+.pro-price span {
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    color: #151515;
+}
+
+.pro-quantity .pro-qty {
+    display: inline-flex;
+    text-align: center;
+    border: 1px solid #eeeeee;
+}
+
+.pro-quantity .pro-qty .qtybtn {
+height: 42px;
+padding: 0 10px;
+border: none;
+background-color: transparent;
+}
+.input {
+    height: 42px;
+    width: 50px;
+    padding: 10px 10px;
+    text-align: center;
+    border-width: 0 1px;
+    border-style: solid;
+    border-color: #eeeeee;
+    color: #151515;
+}
+
+.pro-subtotal span {
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    color: #151515;
+}
+
+.pro-remove span {
+    display: block;
+    font-weight: 600;
+    color: #151515;
+    font-size: 20px;
+}
+
+.pro-remove span:hover {
+    cursor: pointer;
+    color: #ff0000;
+}

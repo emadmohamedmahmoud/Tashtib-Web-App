@@ -1,0 +1,116 @@
+#AboutHero
+{
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header
+{
+    background-image: url(../assets/breadcrumb.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 0 110px;
+    padding-left: 0px;
+    width: 100%;
+    position: relative;
+}
+
+.paths{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-self: flex-start;
+}
+
+.dvider::after{
+    content:' / ';
+    margin: 0 6 px;
+    color: black;
+    padding-right: 5px;
+}
+
+.paths li {
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1;
+    margin-top: 10px;
+    color: #151515;
+}
+
+.line
+{
+    margin: 4px auto;
+    height: 1px ;
+    background-color: black;
+}
+.line1
+{
+    width: 75px;
+}
+.line2
+{
+    width:150px;
+}
+
+p
+{
+    text-align: justify;
+}
+
+
+.slider_item 
+{
+   padding: 0px 10px !important; 
+}
+
+
+.Member-Data
+{
+    top: -100% ;
+    transition: all 1s;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.slider_item:hover .Member-Data 
+{
+    top: 0%;
+}
+.slider_item img
+{
+    transition: all 1s;
+}
+.slider_item:hover img
+{
+    transform: scale(1.1 , 1.1);
+}
+.Portfolio-Icons 
+{
+    left: -100%;
+    transition: all 1s;
+    transition-delay: 0.3s;
+    top: 10%;
+}
+.slider_item:hover .Portfolio-Icons 
+{
+    left: 0%;
+}
+
+
+.Portfolio-Icons .member-Social-Icons:hover .member-Icon
+{
+    background-color: #e65f78 !important;
+    cursor: pointer;
+}
+.Portfolio-Icons .member-Social-Icons:hover i
+{
+    color: white !important;
+}
+
+.slider_item_img
+{
+    width: 269px  !important;
+    height: 269px !important;
+}
