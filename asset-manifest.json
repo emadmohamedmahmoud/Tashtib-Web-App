@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Tashtib-Web-App/static/css/main.496f68fa.css",
+    "main.js": "/Tashtib-Web-App/static/js/main.c757bd73.js",
+    "static/js/787.e26b2ffa.chunk.js": "/Tashtib-Web-App/static/js/787.e26b2ffa.chunk.js",
+    "static/media/f3.jpg": "/Tashtib-Web-App/static/media/f3.f58e34eeaa22533616fe.jpg",
+    "static/media/Zahwa Khaled.JPG": "/Tashtib-Web-App/static/media/Zahwa Khaled.f48d4f9596822d5e2091.JPG",
+    "static/media/Emad Mohamed.jpg": "/Tashtib-Web-App/static/media/Emad Mohamed.30dec674dada55ac221b.jpg",
+    "static/media/About.webp": "/Tashtib-Web-App/static/media/About.99374c94402fb63993cb.webp",
+    "static/media/rami.jpg": "/Tashtib-Web-App/static/media/rami.018ddec96d0cd2cf9635.jpg",
+    "static/media/yasmin emad.jpg": "/Tashtib-Web-App/static/media/yasmin emad.f4ca35a6d7bc4470bc2a.jpg",
+    "static/media/esraa.jpg": "/Tashtib-Web-App/static/media/esraa.20d2ff1998311b8da801.jpg",
+    "static/media/client-7.png": "/Tashtib-Web-App/static/media/client-7.8cfc263fa0653c367fb6.png",
+    "static/media/hero-1.jpg": "/Tashtib-Web-App/static/media/hero-1.41d11294075d7ad48952.jpg",
+    "static/media/Ahmed Samy A.Baset.jpg": "/Tashtib-Web-App/static/media/Ahmed Samy A.Baset.d313bed84954fca02443.jpg",
+    "static/media/hero-2.jpg": "/Tashtib-Web-App/static/media/hero-2.add4dcb892dfb3784062.jpg",
+    "static/media/404-error.jpeg": "/Tashtib-Web-App/static/media/404-error.a807a4a4f8c5d0429dcc.jpeg",
+    "static/media/default3.jpg": "/Tashtib-Web-App/static/media/default3.97660bbbc8d6aea80159.jpg",
+    "static/media/banner2.webp": "/Tashtib-Web-App/static/media/banner2.3442b56e1206a4a38e19.webp",
+    "static/media/My project-1 (1).png": "/Tashtib-Web-App/static/media/My project-1 (1).334626e2b7070ca2eb8c.png",
+    "static/media/empty-cart.png": "/Tashtib-Web-App/static/media/empty-cart.aedd70aab64bc4e9768d.png",
+    "static/media/banner1.webp": "/Tashtib-Web-App/static/media/banner1.ade0fa6e87634fa0e9fe.webp",
+    "static/media/defaultProductImage.jpg": "/Tashtib-Web-App/static/media/defaultProductImage.8d5c433548dc5dd42523.jpg",
+    "static/media/breadcrumb.webp": "/Tashtib-Web-App/static/media/breadcrumb.86c647da6db54831bc5e.webp",
+    "static/media/slick.svg": "/Tashtib-Web-App/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Tashtib-Web-App/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Tashtib-Web-App/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Tashtib-Web-App/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Tashtib-Web-App/index.html",
+    "main.496f68fa.css.map": "/Tashtib-Web-App/static/css/main.496f68fa.css.map",
+    "main.c757bd73.js.map": "/Tashtib-Web-App/static/js/main.c757bd73.js.map",
+    "787.e26b2ffa.chunk.js.map": "/Tashtib-Web-App/static/js/787.e26b2ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496f68fa.css",
+    "static/js/main.c757bd73.js"
+  ]
+}
